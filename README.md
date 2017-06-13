@@ -1,4 +1,5 @@
 Device tree for Micromax Canvas Spark (Q380). Chipset:MediaTek6582(M) Kernel 3.10.54
+===========================
 Micromax Canvas Spark Q380
 ===========================
 
