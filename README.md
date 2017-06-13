@@ -13,6 +13,6 @@ Battery | 2000 mAh
 Display | 4.7" 960 x 540 px
 Camera  | 8MPx,2MPx
 
-![Spark]("http://cdn2.gsmarena.com/vv/pics/micromax/micromax-canvas-spark-Q380-1.jpg")
+![Spark](http://cdn2.gsmarena.com/vv/pics/micromax/micromax-canvas-spark-Q380-1.jpg)
 
 This experimental branch is for building Marshmallow (6.0.x) {Lineage and AOSP} based ROMs.
